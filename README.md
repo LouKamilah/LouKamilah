@@ -22,4 +22,4 @@ Aunque mi experiencia laboral formal es limitada, he desarrollado varios proyect
 </br>
 
 ## Contacto
-[![Email](https://img.shields.io/badge/CONTACTOKAMY%40GMAIL.COM%20-%20white?style=for-the-badge&logo=maildotcom&logoSize=auto&labelColor=white&color=white)](mailto:contactokamy@gmail.com)
+[![Email](https://img.shields.io/badge/CONTACTOKAMY%40GMAIL.COM%20-%20white?style=for-the-badge&logo=maildotcom&logoColor=black&logoSize=auto&labelColor=white&color=white)](mailto:contactokamy@gmail.com)
