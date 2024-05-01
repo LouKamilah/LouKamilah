@@ -1,4 +1,4 @@
-#  Hola, mi nombre es Camila Oyarzpun 👋
+#  Hola, mi nombre es Camila Oyarzún 👋
 ### Junior Web Developer 🚀
 
 ![https://github.com/LouKamilah](https://raw.githubusercontent.com/LouKamilah/LouKamilah/master/banner-readme.png)
