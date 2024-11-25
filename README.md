@@ -1,12 +1,6 @@
 #  Hola Mundo! 👋
-### Junior Web Developer 🚀
 
 ![https://github.com/LouKamilah](https://raw.githubusercontent.com/LouKamilah/LouKamilah/master/banner-readme.png)
-
-Soy una apasionada a la tecnologia y el desarrollo de entornos interactivos y atractivos 
-
-Mi experiencia incluye el desarrollo y mantenimiento de aplicaciones web. También tengo conocimientos sólidos en bases de datos, especialmente MySQL, permitiéndome diseñar y administrar estructuras de datos eficientes.
-Aunque mi experiencia laboral formal es limitada, he desarrollado varios proyectos personales que demuestran mi capacidad para resolver problemas y construir aplicaciones funcionales. Estos proyectos me han permitido aplicar y perfeccionar mis habilidades.
 
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript%20-%20white?style=for-the-badge&logo=JavaScript&logoSize=auto&labelColor=white&color=white)]()
