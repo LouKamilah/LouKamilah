@@ -4,8 +4,6 @@
 
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript%20-%20white?style=for-the-badge&logo=JavaScript&logoSize=auto&labelColor=white&color=white)]()
-</br>
-</br>
 [![MySQL](https://img.shields.io/badge/mysql%20-%20white?style=for-the-badge&logo=mysql&logoSize=auto&labelColor=white&color=white)]()
 </br>
 
